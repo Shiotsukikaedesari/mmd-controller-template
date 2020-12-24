@@ -1,0 +1,23 @@
+{
+  "name": "mmd-controller-template",
+  "version": "1.0.0",
+  "description": "mmd组件开发模板",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiotsukikaedesari/mmd-controller-template.git"
+  },
+  "author": "Shiotsuki_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shiotsukikaedesari/mmd-controller-template/issues"
+  },
+  "homepage": "https://github.com/Shiotsukikaedesari/mmd-controller-template#readme",
+  "dependencies": {
+    "mmd-controller-plugin": "^1.0.3"
+  }
+}
