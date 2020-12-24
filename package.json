@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Shiotsukikaedesari/mmd-controller-template#readme",
   "dependencies": {
-    "mmd-controller-plugin": "^1.0.3"
+    "mmd-controller-plugin": "^1.0.3",
+    "webpack": "^3.6.0"
   }
 }
